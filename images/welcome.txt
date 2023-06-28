@@ -1,0 +1,2 @@
+my_name = "Tu nombre"
+print("Hola y bienvenido " + my_name + " al taller de Percepción Remota con Python.")
