@@ -1,0 +1,4 @@
+Contenido:
+
+1.- poblacion_rm (xlsx)
+2.- ubicaciones (csv)
