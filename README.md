@@ -1,5 +1,4 @@
-# python-percepcion-remota
-Python aplicado a Percepción Remota
+# Python aplicado a Percepción Remota
 
   Temario
   I. Introducción al lenguaje de programación Python
