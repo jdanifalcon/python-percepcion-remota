@@ -25,12 +25,12 @@ IV. Tipos de colección de datos
     c. Conjuntos
     d. Tuplas
 
-V. Tipos de colección de datos
+V. Environments y paqueterías
 
-    a. Listas
-    b. Diccionarios
-    c. Conjuntos
-    d. Tuplas
+VI. Vectores
+
+VII. Raster
+
 
 # BIBLIOGRAFÍA BÁSICA
 - El tutorial de Python documentación de Python - 3.10.2. (2022). Python. https://docs.python.org/es/3/tutorial/index.html
